@@ -6,4 +6,4 @@ class car:
 
 p=car(2,3)
 print(p.y,p.x)
-print("hello world just like that ")
+print("hello world just like ")
