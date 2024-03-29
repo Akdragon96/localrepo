@@ -1,3 +1,9 @@
 big{
     background-color:aqua;
+    color:white;
+    font-size:large;
+}
+body{
+    background-color:yellow;
+    color:blue;
 }
