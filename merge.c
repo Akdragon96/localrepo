@@ -51,7 +51,7 @@ void display(int arr[],int left,int right){
     for(i=left;i<=right;i++){
         printf("%d\t",arr[i]);
     }
-}
+}//for testing 
 int main(){
     int n;
     printf("Enter the size of array:");
