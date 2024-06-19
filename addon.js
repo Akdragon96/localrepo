@@ -1,4 +1,4 @@
-alert("HELLO WORLD THIS IS THE FIRST FILE IN THE MORNING THAT SHOULD BE DONE");
+alert("for the first time for the you should be able to connect to the database ");
 document.write("lets write make the file that is used to add two numbers that shouhld  ");
 let a=9;
 let b=7;
